@@ -1,0 +1,14 @@
+Overall Accuracy: 76.62%
+
+Feature Importance:
+Glucose: 75.97%
+Pregnancies: 69.48%
+Insulin: 67.53%
+DiabetesPedigreeFunction: 67.53%
+BMI: 66.23%
+BloodPressure: 65.58%
+SkinThickness: 63.64%
+Age: 57.14%
+
+Cross-validation mean: 73.63%
+Cross-validation std: 3.57%
